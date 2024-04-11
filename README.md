@@ -1,4 +1,4 @@
-# weather_app
+# Weather App
 
 
 A few resources to get you started if this is your first Flutter project:
