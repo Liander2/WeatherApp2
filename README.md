@@ -7,6 +7,8 @@ Widgets used in this project.
 - Column
 - TextWidgets
 
+- Packages used
+- ![waether packages](https://github.com/Liander2/WeatherApp2/assets/150666994/758a74d5-b8df-4630-9929-531985b69f7c)
 
 
 A few resources to get you started if this is your first Flutter project:
