@@ -1,5 +1,11 @@
 # Weather App
-
+A Weather App that shows the City Name, Temperature and Weather Conditions.
+Widgets used in this project. 
+- Scaffol
+- Appbar
+- Center
+- Column
+- TextWidgets
 
 A few resources to get you started if this is your first Flutter project:
 - (https://openweathermap.org/)
